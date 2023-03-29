@@ -1,0 +1,33 @@
+<project name="EdaDatasets" basedir=".">
+
+  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
+  <!-- oooooooooooooooooooooooooo  Dependencies  oooooooooooooooooooooooooo -->
+  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
+
+  <import file="${projectsDir}/ApiCommonWorkflow/build.xml" optional="true" />
+
+  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
+  <!-- oooooooooooooooooooooooooo  Installation  oooooooooooooooooooooooooo -->
+  <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
+
+  <target name="ApiCommonWorkflow-Installation-Proxy">
+    <antcall target="ApiCommonWorkflow-Installation" />
+  </target>
+
+  <target name="EdaDatasets-Installation" depends="ApiCommonWorkflow-Installation-Proxy,
+                                                       EdaDatasets/Datasets-Installation">
+    <ant target="defaultProjectInstall">
+      <property name="project" value="EdaDatasets" />
+    </ant>
+  </target>
+
+  <!-- ooooooooooooooooooooooo  Install Components  ooooooooooooooooooooooo -->
+
+  <target name="EdaDatasets/Datasets-Installation">
+    <ant target="defaultComponentInstall">
+      <property name="project" value="EdaDatasets" />
+      <property name="component" value="Datasets" />
+    </ant>
+  </target>
+
+</project>

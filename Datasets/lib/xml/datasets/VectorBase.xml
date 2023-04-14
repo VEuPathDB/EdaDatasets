@@ -2224,4 +2224,12 @@
     <prop name="speciesReconciliationFallbackSpecies"></prop>
   </dataset>
 
+ <dataset class="EDAMegaStudy">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="studyStableId">VBP_MEGA</prop>
+    <prop name="version">1</prop>
+    <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
+  </dataset>
+
+
 </datasets>

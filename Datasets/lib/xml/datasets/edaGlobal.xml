@@ -1,5 +1,7 @@
 <datasets>
 
+
+<!--
   <dataset class="taxonomy">
   </dataset>
 
@@ -7,22 +9,27 @@
     <prop name="version">1.3</prop>
   </dataset>
 
-<!-- EDA entity types and protocols -->
+
 <dataset class="ontologyFromTabDelim">
     <prop name="name">entityTypesAndProtocols</prop>
     <prop name="version">eda</prop>
   </dataset>
-
+-->
 
   <!-- REPLACE THIS WITH REPOSITORY ONTOLOGY TERMS ONCE RELEASED TO PRODUCTION-->
   <dataset class="tempPopbioOntologyTerms">
     <prop name="name">popbio</prop>
   </dataset>
 
-
-  <dataset class="oboOntology">
-    <prop name="name">eupath</prop>
+  <dataset class="tempPopbioOntologyTerms">
+    <prop name="name">popbio_taxonomy</prop>
   </dataset>
+
+<!--
+  <dataset class="updateTempPopbioOntologyTerms">
+    <prop name="name">popbio</prop>
+  </dataset>
+-->
 
 <!-- can add other global datasets as needed -->
 </datasets>

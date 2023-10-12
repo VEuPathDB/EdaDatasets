@@ -60,7 +60,7 @@ GetOptions(
 
 die "ERROR: must provide '--studyName VBP0000123' on commandline\n" unless ($studyName);
 die "ERROR: must provide '--newVersion 2023-12-31' on commandline\n" unless ($newVersion);
-die "ERROR: must provide '--search PATTERN --replace STRING on commandline\n" unless (defined $search && defined $replace);
+die "ERROR: must provide '--search PATTERN --replace STRING' on commandline\n" unless (defined $search && defined $replace);
 
 # this forces empty XML tags to be rendered long-hand as `<tag attr="abc"></tag>`
 # it is UNSUPPORTED in the current version and may not work for ever.

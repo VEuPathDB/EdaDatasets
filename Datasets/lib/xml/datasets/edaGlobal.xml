@@ -5,16 +5,19 @@
   <dataset class="taxonomy">
   </dataset>
 -->
-  <dataset class="ontologyRelationshipTypes">
+  <dataset class="ontologyRelationshipTypesForProject">
+    <prop name="projectName">VectorBase</prop>
     <prop name="version">1.3</prop>
   </dataset>
 
-<dataset class="ontologyFromTabDelim">
+<dataset class="ontologyFromTabDelimForProject">
+    <prop name="projectName">VectorBase</prop>
     <prop name="name">entityTypesAndProtocols</prop>
     <prop name="version">eda</prop>
   </dataset>
 
-  <dataset class="gadm">
+  <dataset class="gadmForProject">
+    <prop name="projectName">VectorBase</prop>
   </dataset>
 
 

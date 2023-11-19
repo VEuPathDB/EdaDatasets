@@ -6661,7 +6661,7 @@
     <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
   </dataset>
 
-  <dataset class="ISATabPopBio">
+  <dataset class="SingleISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000838</prop>
     <prop name="version">b64pre-MAINE-03</prop>

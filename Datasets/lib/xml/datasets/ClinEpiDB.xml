@@ -1,0 +1,12 @@
+<datasets>
+  <!-- <constant name="projectName" value="ClinEpiDB"></constant> -->
+  <!-- Transmission Zero proof of concept -->
+  <dataset class="ISATabPopBio">
+    <prop name="projectName">ClinEpiDB</prop>
+    <prop name="studyName">TransmissionZero</prop>
+    <prop name="version">2024-01-12</prop>
+    <prop name="webDisplayOntologyName">OntologyTerm_field_trials_RSRC</prop>
+    <prop name="speciesReconciliationOntologySpec"></prop> <!-- empty on purpose -->
+    <prop name="speciesReconciliationFallbackSpecies"></prop> <!-- no species reconcilliation to be done -->
+  </dataset>
+</datasets>

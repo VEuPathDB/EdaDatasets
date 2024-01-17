@@ -6770,4 +6770,50 @@
     <prop name="speciesReconciliationFallbackSpecies"></prop>
   </dataset>
 
+  <dataset class="ISATabPopBio">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="studyName">VBP0000845</prop>
+    <prop name="version">2024-01-15</prop>
+    <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
+    <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
+    <prop name="speciesReconciliationFallbackSpecies"></prop>
+  </dataset>
+
+  <dataset class="ISATabPopBio">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="studyName">VBP0000846</prop>
+    <prop name="version">2024-01-15</prop>
+    <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
+    <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
+    <prop name="speciesReconciliationFallbackSpecies"></prop>
+  </dataset>
+
+  <dataset class="ISATabPopBio">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="studyName">VBP0000847</prop>
+    <prop name="version">2024-01-15</prop>
+    <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
+    <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
+    <prop name="speciesReconciliationFallbackSpecies"></prop>
+  </dataset>
+
+  <dataset class="ISATabPopBio">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="studyName">VBP0000848</prop>
+    <prop name="version">2024-01-15</prop>
+    <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
+    <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
+    <prop name="speciesReconciliationFallbackSpecies"></prop>
+  </dataset>
+
+  <dataset class="ISATabPopBio">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="studyName">VBP0000849</prop>
+    <prop name="version">2024-01-15</prop>
+    <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
+    <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
+    <prop name="speciesReconciliationFallbackSpecies"></prop>
+  </dataset>
+
+
 </datasets>

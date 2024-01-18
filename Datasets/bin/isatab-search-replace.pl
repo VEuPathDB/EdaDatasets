@@ -22,7 +22,7 @@ use File::Copy::Recursive qw(dircopy);
 #
 # options:
 #
-#   --datasets ../../lib/xml/datasets/VectorBase.xml : path to datasets.xml (relative to script location)
+#   --datasets ../lib/xml/datasets/VectorBase.xml : path to datasets.xml (relative to script location)
 #   --manualDelivery /eupath/data/EuPathDB/manualDelivery/VectorBase/popbio : path to manualDelivery (this is the default)
 #   --dry-run : will copy the directory (but will not clobber) and make the search/replace edits
 #               but it won't update the datasets.xml file
@@ -44,7 +44,7 @@ my $studyName;
 my $newVersion;
 my $search;
 my $replace;
-my $datasets_file = "$FindBin::Bin/../../lib/xml/datasets/VectorBase.xml";
+my $datasets_file = "$FindBin::Bin/../lib/xml/datasets/VectorBase.xml";
 my $manualDelivery_path = '/eupath/data/EuPathDB/manualDelivery/VectorBase/popbio';
 my $dry_run;
 

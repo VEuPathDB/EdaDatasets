@@ -1373,7 +1373,7 @@
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000182</prop>
-    <prop name="version">2023-08-11</prop>
+    <prop name="version">2024-01-18</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>
@@ -2949,7 +2949,7 @@
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000365</prop>
-    <prop name="version">2023-08-11</prop>
+    <prop name="version">2024-01-18</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>
@@ -6396,7 +6396,7 @@
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000805</prop>
-    <prop name="version">2023-08-11</prop>
+    <prop name="version">2024-01-18</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>
@@ -6423,7 +6423,7 @@
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000808</prop>
-    <prop name="version">2023-08-11</prop>
+    <prop name="version">2024-01-18</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>
@@ -6450,7 +6450,7 @@
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000811</prop>
-    <prop name="version">2023-08-11</prop>
+    <prop name="version">2024-01-18</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>

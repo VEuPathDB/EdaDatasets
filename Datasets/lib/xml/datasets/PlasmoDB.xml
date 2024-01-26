@@ -1,0 +1,10 @@
+<datasets>
+  <dataset class="ISASimpleTransitional">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="subProjectName">EDA</prop>
+    <prop name="studyName">leegambian</prop>
+    <prop name="version">2024-01</prop>
+    <prop name="webDisplayOntologyName">plas_eda</prop>
+    <prop name="nameForFilenames"></prop>
+  </dataset>
+</datasets>

@@ -4,9 +4,23 @@
   <dataset class="ISATabPopBio">
     <prop name="projectName">ClinEpiDB</prop>
     <prop name="studyName">TransmissionZero</prop>
-    <prop name="version">2024-01-12</prop>
+    <prop name="version">2024-03-07</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_field_trials_RSRC</prop>
     <prop name="speciesReconciliationOntologySpec"></prop> <!-- empty on purpose -->
     <prop name="speciesReconciliationFallbackSpecies"></prop> <!-- no species reconcilliation to be done -->
   </dataset>
+  <dataset class="ISASimplePopset">
+    <prop name="projectName">ClinEpiDB</prop>
+    <prop name="studyName">PlasmoDB_popset</prop>
+    <prop name="version">0</prop>
+    <prop name="webDisplayOntologyName">general_popset</prop>
+    <prop name="nameForFilenames"></prop>
+ </dataset>
+  <dataset class="ISASimplePopset">
+    <prop name="projectName">ClinEpiDB</prop>
+    <prop name="studyName">VectorBase_popset</prop>
+    <prop name="version">0</prop>
+    <prop name="webDisplayOntologyName">general_popset</prop>
+    <prop name="nameForFilenames"></prop>
+ </dataset>
 </datasets>

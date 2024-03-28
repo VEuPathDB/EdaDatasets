@@ -6881,4 +6881,13 @@
     <prop name="speciesReconciliationFallbackSpecies"></prop>
   </dataset>  
 
+  <dataset class="ISASimplePopset">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="studyName">VectorBase_popset</prop>
+    <prop name="version">0</prop>
+    <prop name="webDisplayOntologyName">general_popset</prop>
+    <prop name="nameForFilenames"></prop>
+ </dataset>
+
+
 </datasets>

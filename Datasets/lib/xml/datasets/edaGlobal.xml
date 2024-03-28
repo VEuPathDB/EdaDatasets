@@ -9,6 +9,11 @@
     <prop name="projectName">VectorBase</prop>
     <prop name="version">1.3</prop>
   </dataset>
+  <dataset class="ontologyRelationshipTypesForProject">
+    <prop name="projectName">ClinEpiDB</prop>
+    <prop name="version">1.3</prop>
+  </dataset>
+
 
 <dataset class="ontologyFromTabDelimForProject">
     <prop name="projectName">VectorBase</prop>
@@ -19,11 +24,18 @@
   <dataset class="gadmForProject">
     <prop name="projectName">VectorBase</prop>
   </dataset>
+  <dataset class="gadmForProject">
+    <prop name="projectName">ClinEpiDB</prop>
+  </dataset>
 
 
   <!-- REPLACE THIS WITH REPOSITORY ONTOLOGY TERMS ONCE RELEASED TO PRODUCTION-->
   <dataset class="tempPopbioOntologyTerms">
     <prop name="name">popbio</prop>
+  </dataset>
+
+  <dataset class="tempPopbioOntologyTerms">
+    <prop name="name">field_trials</prop>
   </dataset>
 
   <dataset class="tempPopbioOntologyTerms">

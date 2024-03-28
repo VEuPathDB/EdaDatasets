@@ -11,7 +11,8 @@
     <prop name="projectName">PlasmoDB</prop>
     <prop name="studyName">PlasmoDB_popset</prop>
     <prop name="version">0</prop>
-    <prop name="webDisplayOntologyName">general_popset</prop>
+    <prop name="webDisplayOntologyName">PlasmoDB_general_popset_ontology</prop>
+    <prop name="webDisplayOntologyFile">ontology/release/production/general_popset.owl</prop>
     <prop name="nameForFilenames"></prop>
  </dataset>
 </datasets>

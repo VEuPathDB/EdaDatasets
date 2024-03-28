@@ -7,4 +7,11 @@
     <prop name="webDisplayOntologyName">plas_eda</prop>
     <prop name="nameForFilenames"></prop>
   </dataset>
+  <dataset class="ISASimplePopset">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="studyName">PlasmoDB_popset</prop>
+    <prop name="version">0</prop>
+    <prop name="webDisplayOntologyName">general_popset</prop>
+    <prop name="nameForFilenames"></prop>
+ </dataset>
 </datasets>

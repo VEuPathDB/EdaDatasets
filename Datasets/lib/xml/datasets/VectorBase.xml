@@ -2,6 +2,17 @@
 <datasets>
   <constant name="projectName" value="VectorBase"></constant>
 
+  <dataset class="ISASimplePopset">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="subProjectName">EDA</prop>
+    <prop name="studyName">popset</prop>
+    <prop name="version">0</prop>
+    <prop name="webDisplayOntologyName">$$projectName$$_general_popset_ontology</prop>
+    <prop name="webDisplayOntologyFile">ontology/release/production/general_popset.owl</prop>
+    <prop name="nameForFilenames"></prop>
+ </dataset>
+
+
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000003</prop>
@@ -6775,7 +6786,7 @@
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000850</prop>
-    <prop name="version">2024-03-27</prop>
+    <prop name="version">2024-04-02</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>
@@ -6784,7 +6795,7 @@
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000851</prop>
-    <prop name="version">2024-03-27</prop>
+    <prop name="version">2024-04-02</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>
@@ -6835,16 +6846,6 @@
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>
   </dataset>  
-
-  <dataset class="ISASimplePopset">
-    <prop name="projectName">$$projectName$$</prop>
-    <prop name="subProjectName">EDA</prop>
-    <prop name="studyName">popset</prop>
-    <prop name="version">0</prop>
-    <prop name="webDisplayOntologyName">$$projectName$$_general_popset_ontology</prop>
-    <prop name="webDisplayOntologyFile">ontology/release/production/general_popset.owl</prop>
-    <prop name="nameForFilenames"></prop>
- </dataset>
 
  <!-- 2024-04-02 -->
   <dataset class="ISATabPopBio">

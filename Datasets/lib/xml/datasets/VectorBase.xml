@@ -6860,7 +6860,7 @@
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000858</prop>
-    <prop name="version">2024-04-02</prop>
+    <prop name="version">2024-04-12</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>

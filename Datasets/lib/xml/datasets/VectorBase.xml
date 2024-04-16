@@ -9,7 +9,7 @@
     <prop name="version">0</prop>
     <prop name="webDisplayOntologyName">$$projectName$$_general_popset_ontology</prop>
     <prop name="webDisplayOntologyFile">ontology/release/production/general_popset.owl</prop>
-    <prop name="nameForFilenames"></prop>
+    <prop name="nameForFilenames">$$projectName$$_popsets</prop>
  </dataset>
 
 
@@ -6672,7 +6672,7 @@
     <prop name="webDisplayOntologyName">OntologyTerm_popbio_RSRC</prop>
   </dataset>
 
-  <dataset class="SingleISATabPopBio">
+  <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000838</prop>
     <prop name="version">b64pre-MAINE-03</prop>
@@ -6810,6 +6810,7 @@
     <prop name="speciesReconciliationFallbackSpecies"></prop>
   </dataset>
 
+<!-- removed for b68
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000853</prop>
@@ -6818,7 +6819,7 @@
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>
   </dataset>
-
+-->
 
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
@@ -6829,6 +6830,7 @@
     <prop name="speciesReconciliationFallbackSpecies"></prop>
   </dataset>
 
+<!-- removed for b68
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000855</prop>
@@ -6837,6 +6839,7 @@
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>
   </dataset>
+-->
 
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
@@ -6848,6 +6851,7 @@
   </dataset>  
 
  <!-- 2024-04-02 -->
+<!-- removed for b68
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>
     <prop name="studyName">VBP0000857</prop>
@@ -6856,6 +6860,7 @@
     <prop name="speciesReconciliationOntologySpec">OntologyTerm_popbio_taxonomy_RSRC|dontcare</prop>
     <prop name="speciesReconciliationFallbackSpecies"></prop>
   </dataset>  
+-->
 
   <dataset class="ISATabPopBio">
     <prop name="projectName">$$projectName$$</prop>

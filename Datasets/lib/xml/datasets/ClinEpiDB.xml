@@ -11,6 +11,7 @@
   </dataset>
   <dataset class="ISASimplePopset">
     <prop name="projectName">ClinEpiDB</prop>
+    <prop name="subProjectName">EDA</prop>
     <prop name="studyName">dev_popset</prop>
     <prop name="version">0</prop>
     <prop name="webDisplayOntologyName">ClinEpiDB_general_popset_ontology</prop>

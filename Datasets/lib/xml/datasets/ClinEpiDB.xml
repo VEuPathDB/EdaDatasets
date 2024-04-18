@@ -4,7 +4,7 @@
   <dataset class="ISATabPopBio">
     <prop name="projectName">ClinEpiDB</prop>
     <prop name="studyName">TransmissionZero</prop>
-    <prop name="version">2024-03-07</prop>
+    <prop name="version">2024-04-18</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_field_trials_RSRC</prop>
     <prop name="speciesReconciliationOntologySpec"></prop> <!-- empty on purpose -->
     <prop name="speciesReconciliationFallbackSpecies"></prop> <!-- no species reconcilliation to be done -->

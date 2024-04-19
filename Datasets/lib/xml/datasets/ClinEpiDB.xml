@@ -9,6 +9,7 @@
     <prop name="speciesReconciliationOntologySpec"></prop> <!-- empty on purpose -->
     <prop name="speciesReconciliationFallbackSpecies"></prop> <!-- no species reconcilliation to be done -->
   </dataset>
+<!--
   <dataset class="ISASimplePopset">
     <prop name="projectName">ClinEpiDB</prop>
     <prop name="subProjectName">EDA</prop>
@@ -16,6 +17,16 @@
     <prop name="version">0</prop>
     <prop name="webDisplayOntologyName">ClinEpiDB_general_popset_ontology</prop>
     <prop name="webDisplayOntologyFile">ontology/release/production/general_popset.owl</prop>
+    <prop name="nameForFilenames"></prop>
+ </dataset>
+-->
+  <dataset class="ISATabEDA">
+    <prop name="projectName">ClinEpiDB</prop>
+    <prop name="subProjectName">popbio</prop>
+    <prop name="studyName">TransmissionZero</prop>
+    <prop name="version">2024-04-18</prop>
+    <prop name="webDisplayOntologyName">field_trials</prop>
+    <prop name="webDisplayOntologyFile">ontology/popbio/field_trials.owl</prop>
     <prop name="nameForFilenames"></prop>
  </dataset>
 </datasets>

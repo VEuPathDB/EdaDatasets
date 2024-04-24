@@ -35,10 +35,6 @@
   </dataset>
 
   <dataset class="tempPopbioOntologyTerms">
-    <prop name="name">field_trials</prop>
-  </dataset>
-
-  <dataset class="tempPopbioOntologyTerms">
     <prop name="name">popbio_taxonomy</prop>
   </dataset>
 

@@ -1,14 +1,16 @@
 <datasets>
   <!-- <constant name="projectName" value="ClinEpiDB"></constant> -->
   <!-- Transmission Zero proof of concept -->
+<!--
   <dataset class="ISATabPopBio">
     <prop name="projectName">ClinEpiDB</prop>
     <prop name="studyName">TransmissionZero</prop>
     <prop name="version">2024-04-18</prop>
     <prop name="webDisplayOntologyName">OntologyTerm_field_trials_RSRC</prop>
-    <prop name="speciesReconciliationOntologySpec"></prop> <!-- empty on purpose -->
-    <prop name="speciesReconciliationFallbackSpecies"></prop> <!-- no species reconcilliation to be done -->
+    <prop name="speciesReconciliationOntologySpec"></prop>
+    <prop name="speciesReconciliationFallbackSpecies"></prop>
   </dataset>
+-->
 <!--
   <dataset class="ISASimplePopset">
     <prop name="projectName">ClinEpiDB</prop>
@@ -27,6 +29,8 @@
     <prop name="version">2024-04-18</prop>
     <prop name="webDisplayOntologyName">field_trials</prop>
     <prop name="webDisplayOntologyFile">ontology/popbio/field_trials.owl</prop>
+    <prop name="speciesReconciliationOntologySpec"/>
+    <prop name="speciesReconciliationFallbackSpecies"/>
     <prop name="nameForFilenames"></prop>
  </dataset>
 </datasets>

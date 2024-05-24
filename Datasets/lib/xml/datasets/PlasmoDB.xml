@@ -5,6 +5,7 @@
     <prop name="studyName">leegambian</prop>
     <prop name="version">2024-01</prop>
     <prop name="webDisplayOntologyName">plas_eda</prop>
+    <prop name="webDisplayOntologyFile"></prop>
     <prop name="nameForFilenames"></prop>
   </dataset>
   <dataset class="ISASimplePopset">
@@ -12,6 +13,7 @@
     <prop name="subProjectName">EDA</prop>
     <prop name="studyName">popset</prop>
     <prop name="version">0</prop>
+    <prop name="nextflowEntry">loadEntityGraphEntry</prop>
     <prop name="webDisplayOntologyName">PlasmoDB_general_popset_ontology</prop>
     <prop name="webDisplayOntologyFile">ontology/release/production/general_popset.owl</prop>
     <prop name="nameForFilenames"></prop>

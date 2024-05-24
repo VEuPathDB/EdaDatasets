@@ -7,6 +7,7 @@
     <prop name="subProjectName">EDA</prop>
     <prop name="studyName">popset</prop>
     <prop name="version">0</prop>
+    <prop name="nextflowEntry">loadEntityGraphEntry</prop>
     <prop name="webDisplayOntologyName">$$projectName$$_general_popset_ontology</prop>
     <prop name="webDisplayOntologyFile">ontology/release/production/general_popset.owl</prop>
     <prop name="nameForFilenames">$$projectName$$_popsets</prop>
